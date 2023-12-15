@@ -1,0 +1,15 @@
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\bin\Debug\net6.0\test.exe
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\bin\Debug\net6.0\test.deps.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\bin\Debug\net6.0\test.runtimeconfig.json
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\bin\Debug\net6.0\test.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\bin\Debug\net6.0\test.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\obj\Debug\net6.0\test.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\obj\Debug\net6.0\refint\test.dll
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\obj\Debug\net6.0\test.pdb
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+D:\Learn\SEM_TWO\Operating Systems\ASSINGMENT3\test\obj\Debug\net6.0\ref\test.dll
